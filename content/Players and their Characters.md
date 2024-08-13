@@ -1,0 +1,1 @@
+Please send me information on your characters so I can post it here.
