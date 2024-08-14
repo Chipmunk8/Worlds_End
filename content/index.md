@@ -1,6 +1,13 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Worlds End
 ---
+![[Jungle.jpg]]
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+[[Locations and Geography]]
+[[Culture]]
+[[Politics]]
+[[Magic]]
+[[Weather]]
+[[Inspiration]]
+[[The Hunters]]
+[[Players and their Characters]]
