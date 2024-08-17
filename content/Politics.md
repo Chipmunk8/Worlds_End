@@ -13,6 +13,7 @@ One of the council members is placed as "the crown". They have final say on any 
 
 # [[Marshtock]]
 The odd one out, [[Marshtock]] runs off of a typical monarchy with a king and all.
+
 At the moment the kings name is Ethan Marshtock, and for the most part he is a good guy. He grew up on riches, so he is a bit stuck up but he does a good job ruling.
 
 ![[Marshtock.jpg]]

@@ -10,7 +10,7 @@ The maps don't do the edge of the world justice. The northern edge of the island
 
 
 # Locations
-[[Hunters Lodge]]
-[[Wolf Pine]]
-[[Outlook]]
-[[Marshtock]]
++ [[Hunters Lodge]]
++ [[Wolf Pine]]
++ [[Outlook]]
++ [[Marshtock]]

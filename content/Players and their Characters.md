@@ -1,13 +1,17 @@
 # {Character Name} (Caeson)
 {Race} Wizard 
+
 Rank: {Rank}
+
 {Character Description}
 ### Concept Art
 {Concept Art}
 
 #  Pip (Kaya)
 Human Artificer
+
 Rank: Fletching
+
 {Character Description}
 ### Concept Art
 ![[Kaya consept art 1.jpg]]
@@ -24,7 +28,9 @@ Gare is in his mid thirties, with a strong and dexterous build, he has red hair 
 
 # {Character Name} Scott
 Human Fighter
+
 Rank: {Rank}
+
 {Character Description}
 ### Concept Art
 {Concept Art}
