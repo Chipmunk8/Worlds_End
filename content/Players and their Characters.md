@@ -1,25 +1,28 @@
-# {Character Name} (Caeson)
-{Race} Wizard 
+# Karn (Caeson)
+Human Wizard 
 
-Rank: {Rank}
+Rank: Arrowhead
 
-{Character Description}
+Karn is more commonly known as the “masked magician” or “wandering illusionist”. He has passed through nearly every populated town in worlds end bringing illusory spectacles with him. He is known as a nomadic old altruist who seeks to bring joy to families' lives. He’s kind of like if you combined Loki, Gandalf, and Santa  into one person. Karn always wears a hunters cloak and mask. No one has ever seen his skin. 
+
 
 ### Concept Art
-{Concept Art}
+![[caeson consept art 1.jpg]]
+![[caeson consept art 2.jpg]]
+
 
 #  Pip (Kaya)
 Human Artificer
 
 Rank: Fletching
 
-{Character Description}
+Pip (no last name), is small. To say the least. Probably 4'8" ~ 4'10", but no ones really gotten close enough to check. (It's sort of a joke within the small circle of acquaintances she has, to see who can finally put this dispute to rest. No one has succeeded... yet) Other than her stature, she has mousey brown-grey hair only down to her chin. Her eyes are that strange grey-green-blue that depends on her surroundings. The most striking thing about her is the company she keeps, in particular 3... penguins? One penguin almost her size, 3'6" and two others, about 1'6". Her outfits are normally bright and baggy with some east Asian influence, and she is constantly seen with a hair ornament tassel with a small, silent bell. This is commonly believed to be her hunters symbol. She is probably in her late teens or early twenties.
 
 ### Concept Art
 ![[Kaya consept art 1.jpg]]
 ![[Kaya consept art 2.jpg]]![[Kaya consept art 3.jpg]]
 
-# {Character Name} Mitchel
+# Gare (Mitchel)
 Shifter Monk
 
 Rank: Arrowhead
@@ -29,7 +32,7 @@ Gare is in his mid thirties, with a strong and dexterous build, he has red hair 
 ### Concept Art
 ![[Mitchel consept art 1.jpg]]
 
-# {Character Name} Scott
+# Sorin Stormweave (Scott)
 Human Fighter
 
 Rank: Arrowhead
