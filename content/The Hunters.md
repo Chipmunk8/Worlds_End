@@ -10,7 +10,7 @@ The current head of the hunt is a Kenku Named Caw Wind-Whistle.
 ![[caw wind-whistle.jpg]]
 ### Lodge Lead
 There are four Lodge Leads one in each of the Loges and they are the ones to actually deliver any information passed to them by the Head of the Hunt. They review members and decide how many recruits are needed and who gets to advance in rank. 
-### Arrow Head
+### Arrowhead
 A full Hunter who has proven capable in any situation and trusted to do all that is needed to secure the future safety of all of civilization
 ### Fletching 
 No longer in training and can take individual missions.
@@ -20,7 +20,7 @@ New Hunters in training. They have passed their trials and now accompany an Arro
 # Hunters Symbol
 Each hunter, once they are made a Nock, receives a Hunters Symbol of their choice. It could be any thing from a ring to a tattoo to a necklace or anything else they chose. This symbol is enchanted and cannot be removed by anyone other that the hunter. It also serves the purpose of notifying the hunter when they need to visit the closest Lodge for information or reassignment.
 
-The hunter may be notified by a ringing in their ears or their symbol feeling hot (the actual temperature doesn't change).
+The hunter may be notified by a ringing in their ears or their symbol feeling hot (the actual temperature doesn't change) or something akin to that.
 
 ![[necklase hunters symbol.jpg]]
 
