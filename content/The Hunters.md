@@ -29,3 +29,4 @@ The hunter may be notified by a ringing in their ears or their symbol feeling ho
 Once a hunter becomes a Fletching, they receive a ######. ###### are the choice mount for Hunters. This is because Hunters prioritize speed and agility to carry capacity. They also can have sap rubbed into their feathers to prevent acid damage, though they still need a hood and leg raps for light storms and full shelter for heavy ones. A hunter only ever receives one ###### from the Hunter Organization.
 
 ![[Hunters Mount.jpg]]
+Strida

@@ -1,1 +1,5 @@
 Send me your notes.
+
+Welcome to World's End, a calamity of extraordinary power destroyed all but the land you now live on. Civilization is a whisper of what it once was and fights every day for its right to continue to live. Just a few miles out of town the world becomes ni-uninhabitable and fraught with danger. In short, it's home.
+
+The [[Hunters Festival]], a festival held every 3 years, has been going on for the last 6 days. Each of you are hunters and have either been at the festival, talking to friends and passing stories or avoiding civilization, preferring to keep to yourself. Regardless of where you have been this story begins around noon on the 7th and last day of the festival. Each of you have been summoned by your hunters symbol to the tent set up outside of the hunters lodge to receive your next assignment. 
